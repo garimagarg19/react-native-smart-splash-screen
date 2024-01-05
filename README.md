@@ -1,4 +1,5 @@
 # react-native-smart-splash-screen
+# This is useful for making splash screen
 
 [![npm](https://img.shields.io/npm/v/react-native-smart-splash-screen.svg)](https://www.npmjs.com/package/react-native-smart-splash-screen)
 [![npm](https://img.shields.io/npm/dm/react-native-smart-splash-screen.svg)](https://www.npmjs.com/package/react-native-smart-splash-screen)
